@@ -1,2 +1,2 @@
 %Demo script for Github lesson 1
-a = 10;
+a = 11;
